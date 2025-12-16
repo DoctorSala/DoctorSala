@@ -10,7 +10,7 @@ I'm a tech enthusiast currently balancing university studies with real-world web
 * 🛠️ **Professional:** Building custom web solutions for clients.
 * 🎨 **Obsession:** Currently diving deep into **Three.js** to create immersive 3D experiences on the web.
 
----
+
 
 ## 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -18,7 +18,7 @@ I'm a tech enthusiast currently balancing university studies with real-world web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+
 
 ## ⚪⚫ Beyond the Code
 When I'm not coding or studying, you'll likely find me at the stadium.
@@ -27,7 +27,6 @@ When I'm not coding or studying, you'll likely find me at the stadium.
 * 🏁 "Fino alla fine."
 
 ---
-
 
 ## 📫 Let's Connect
 - 📧 Email: saladavide18@protonmail.com
